@@ -1,0 +1,11 @@
+{
+  "Username": "",
+  "Password": "",
+  "Searchtext": "65-inch TV ",
+  "Emulator": "emulator-5556",
+  "PlatformName": "Android",
+  "PlatformVersion": "10",
+  "AutomationName": "UiAutomator2",
+  "AppPackage": "in.amazon.mShop.android.shopping",
+  "AppActivity": "com.amazon.mShop.home.HomeActivity"
+}
