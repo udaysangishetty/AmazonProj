@@ -18,9 +18,7 @@ namespace Appium
             _Testdriver = _driver;
         }
 
-      
-        
-       
+                
         /// <summary>
         /// Verify flow to add an item to cart
         /// </summary>
